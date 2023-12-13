@@ -1,0 +1,41 @@
+* {
+    background-color: black;
+
+}
+
+.aiola {
+    color: black;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+    transition: 1.5s;
+}
+
+.aiola:hover {
+    color: white;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    transition: 1.5s;
+}
+
+.quote:hover {
+    color: black;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+    transition: 1.5s;
+}
+
+.quote {
+    color: white;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    transition: 1.5s;
+}
+
